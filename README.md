@@ -1,1 +1,2 @@
-# Crap game
+# Craps
+Basic Craps Game
